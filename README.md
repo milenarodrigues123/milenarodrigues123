@@ -97,8 +97,8 @@ My goal is to bridge technical teams and business stakeholders, acting as an end
 
 
 ### 🛠️ Modeling
-- Data Vault  
-- Relational / Dimensional Modeling (Kimball / Star Schema)
+- Data Vault –> designing scalable models with partitioning and incremental updates  
+- Relational / Dimensional Modeling -> building star schemas and Kimball-style data warehouses
 
 
 <br style="clear:both;"/>
