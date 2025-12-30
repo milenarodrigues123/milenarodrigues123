@@ -8,7 +8,6 @@ I have 4 years of experience at a Brazilian Asset Management firm, with 2 years 
 
 I work closely with Portfolio Management (PMs), Sales and Financial Products Teams, transforming complex data into actionable insights that support decision-making in the financial market.
 
-My goal is to bridge technical teams and business stakeholders, acting as an end-to-end owner of data solutions, from architecture and pipelines to analytics and business delivery, ensuring data products are reliable, scalable, and generate real impact.
 
 ### 🤖 Languages & Tools
 
