@@ -6,8 +6,7 @@ Hi, I’m Milena Rodrigues, 27 years old. I’m passionate about data and techno
 
 I have 4 years of experience at a Brazilian Asset Management firm, with 2 years as a buy-side Credit Analyst and nearly 2 years in Data & Analytics, specializing in end-to-end data solutions — from raw data ingestion to final visualization and business delivery.
 
-I work closely with Portfolio Management (PMs), Sales and Financial Products Teams, transforming complex data into actionable insights that support decision-making in the financial market.
-
+At my current job, I work closely with the CEO, the Portfolio Managers (PMs), Sales and Financial Products Teams, transforming complex data into actionable insights that support decision-making in the financial market.
 
 ### 🤖 Languages & Tools
 
